@@ -82,7 +82,19 @@
                         "size": 4450992,
                         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.minecraft:launchwrapper:1.12",
+                            "name": "Mojang (LaunchWrapper)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 32999,
+                                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                                "url": "https://www.filehosting.org/file/details/6134585/launchwrapper-1.12.jar"
+                            }
+                        },
+                    ]
                 },
                 {
                     "id": "net.optifine:optifine:1.12.2_HD_U_G5",
