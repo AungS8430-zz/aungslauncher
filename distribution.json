@@ -6,7 +6,7 @@
         "smallImageKey": "seal-circle"
     },
     "java": {
-        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+        "oracle": "https://www.oracle.com/java/technologies/downloads/#java17.html"
     },
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
