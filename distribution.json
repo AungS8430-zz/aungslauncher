@@ -81,7 +81,7 @@
                     "artifact": {
                         "size": 4450992,
                         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
                     "subModules": [
                         {
@@ -92,7 +92,27 @@
                                 "size": 32999,
                                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
+                            },
+                        {
+                            "id": "org.ow2.asm:asm-all:5.2",
+                            "name": "Mojang (ASM)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 247787,
+                                "MD5": "f5ad16c7f0338b541978b0430d51dc83",
+                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
                             }
+                        },
+                        {
+                            "id": "jline:jline:2.13",
+                            "name": "Mojang (jline)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 248566,
+                                "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
+                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
+                            }
+                        }
                         }
                     ]
                 },
