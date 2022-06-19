@@ -11,54 +11,6 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "189",
-            "name": "Minecraft 1.8.9",
-            "description": "Load with LabyMod and Optifine.",
-            "icon": "https://labymod.net/page/tpl/assets/images/logo_web.png",
-            "version": "3.9.4",
-            "address": "mc.hypixel.net",
-            "minecraftVersion": "1.8.9",
-            "discord": {
-                "shortId": "189",
-                "largeImageText": "Minecraft 1.8.9",
-                "largeImageKey": "Labymod"
-            },
-            "mainServer": false,
-            "autoconnect": false,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.8.9-11.15.1.2318",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 4450992,
-                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar"
-                    }
-                },
-                {
-                    "id": "net.optifine:optifine:1.8.9_HD_U_M5",
-                    "name": "Optifine",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2254712,
-                        "MD5": "0dd7761e908f9b245bb0dc0fac5649f5",
-                        "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=a31d9152e263544f846a188a0b43ea57"
-                    }
-                },
-                {
-                    "id": "net.labymod.labymod:labymod:1.8.9",
-                    "name": "Labymod 1.8.9",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 538740,
-                        "MD5": "f4d931f6db6210621a86fa1e7eae8016",
-                        "url": "https://www.filehosting.org/file/details/5915189/LabyMod-3-1.8.9.jar"
-                    }
-                }
-            ]
-        },
-        {
             "id": "1122",
             "name": "Minecraft 1.12.2",
             "description": "Load with LabyMod and Optifine.",
