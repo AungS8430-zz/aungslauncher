@@ -9,7 +9,7 @@
     {
       "id": "1.12.2-1.12.2",
       "name": "1.12.2 (Minecraft 1.12.2)",
-      "description": "1.12.2 Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+      "description": "Run Minecraft 1.12.2 with LabyMod, Optifine",
       "icon": "https://labymod.net/page/tpl/assets/images/logo_web.png",
       "version": "1.0.0",
       "address": "localhost:25565",
