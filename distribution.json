@@ -253,7 +253,14 @@
               }
             }
           ]
-        }
+        },
+        {
+          "id": "net.labymod:LabyMod_3.9.32_mc1.12.2@jar",
+          "name": "LabyMod MC 1.12.2(3.9.32)"
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+          
       ]
     },
     {
