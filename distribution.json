@@ -1,24 +1,23 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "989731287445176370",
+    "smallImageText": "Aung.S Launcher",
+    "smallImageKey": "aungslauncher"
   },
   "servers": [
     {
       "id": "1.12.2-1.12.2",
       "name": "1.12.2 (Minecraft 1.12.2)",
       "description": "1.12.2 Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-      "icon": null,
+      "icon": "https://labymod.net/page/tpl/assets/images/logo_web.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.12.2",
+        "largeImageText": "Labymod",
+        "largeImageKey": "1.12.2laby"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -261,14 +260,14 @@
       "id": "1.8.9-1.8.9",
       "name": "1.8.9 (Minecraft 1.8.9)",
       "description": "1.8.9 Running Minecraft 1.8.9 (Forge v11.15.1.2318)",
-      "icon": null,
+      "icon": "https://labymod.net/page/tpl/assets/images/logo_web.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.8.9",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.8.9",
+        "largeImageText": "Labymod",
+        "largeImageKey": "1.8.9laby"
       },
       "mainServer": false,
       "autoconnect": false,
